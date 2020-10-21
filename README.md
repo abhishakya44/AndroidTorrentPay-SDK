@@ -4,20 +4,20 @@ TorrentPay for Mobile SDK facilitates enhanced mobile payments experience for en
 TorrentPay enhances the payment experience and boosts the success rate with the following array of the features.
 
 1.  **Auto-OTP processing**
-In TorrentPay enabled transaction journey, Auto-OTP processing involves following functions.
+#### In TorrentPay enabled transaction journey, Auto-OTP processing involves following functions.
 
 - It reads the OTP from the customer's registered mobile number.
 - It shows the OTP to the customer and asks for the approval to process the same.
 - Once approved, it inputs the OTP in the required filed and processes it further.
 
 2. **Showing correct keypad for required input**
-On any mobile application, on the tap on any input field the keypad pops up. The keypad of Android and iOS show alphabetic keypad as a default for every input field. The feature of "Showing correct keypad for required input" involves the following.
+#### On any mobile application, on the tap on any input field the keypad pops up. The keypad of Android and iOS show alphabetic keypad as a default for every input field. The feature of "Showing correct keypad for required input" involves the following.
 
 - The numeric keypad to be opened if the input to be entered is numeric. For example, the customer ID of HDFC bank is numeric. When a customer clicks on input filed of customer ID the numeric keypad will be opened.
 - Fields where input can be alpha numeric, the default keypad will be opened.
 
 3. **Auto-zoom and Auto-scroll**
-In a normal transaction journey, the bank page opens in the following two fashions.
+#### In a normal transaction journey, the bank page opens in the following two fashions.
 
 - Page fits in the mobile screen - In such cases, due to small size of mobile screens, the content of the page is very difficult to read. So, the customer must zoom-in into the page to see the content and tap on the input box. In Pine Labs' Plural Checkout enabled payment page, the bank page is zoomed in automatically and customer can easily enter the input to proceed with the transaction.
 - The input field is not visible - Input box is not visible on the screen. In such cases, the customer must scroll left, scroll right, scroll up, and scroll down to reach the input box. With Pine Labs' Plural Checkout payment pages, input is focused, and a user does not have to scroll.
